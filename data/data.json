@@ -1,0 +1,92 @@
+[ 
+    {
+        "id":1,
+        "nombre":"Tesa",
+        "especie": "perro",
+        "edadAños": 12,
+        "mesesAños": "años",
+        "imagen": "./img/tesa.jpg",
+        "peso": 9,
+        "descripcion": "Soy muy dulce, pero no me gustan otros perros"
+    },
+    {
+        "id":2,
+        "nombre":"Galileo",
+        "especie": "perro",
+        "edadAños": 10,
+        "mesesAños": "años",
+        "imagen": "./img/galileo.jpg",
+        "peso": 8,
+        "descripcion": "Me llevo bien con gatos y perros"
+    },
+    {
+        "id":3,
+        "nombre":"Jochi",
+        "especie": "perro",
+        "edadAños": 11,
+        "mesesAños": "meses",
+        "imagen": "./img/jochi.jpg",
+        "peso": 4,
+        "descripcion": "Busco una familia con niños"
+    }, 
+    {
+        "id":4,
+        "nombre":"Inma",
+        "especie": "perro",
+        "edadAños": 3,
+        "mesesAños": "meses",
+        "imagen": "./img/inma.jpg",
+        "peso": 1,
+        "descripcion": "Amo la compañía y me llevo genial con todo, puedo pasar horas jugando."
+    }, 
+    {
+        "id":5,
+        "nombre":"Mere",
+        "especie": "perro",
+        "edadAños": 6,
+        "mesesAños": "años",
+        "imagen": "./img/mere.jpg",
+        "peso": 24,
+        "descripcion": "Tengo alma de cachorra."
+    },    
+    {
+        "id":6,
+        "nombre":"Oddie",
+        "especie": "gato",
+        "edadAños": 2,
+        "mesesAños": "años",
+        "imagen": "./img/oddie.jpg",
+        "peso": 1,
+        "descripcion": "Soy compañero, tranquilo y jugueton a la vez."
+    }, 
+    {
+        "id":7,
+        "nombre":"Lapo",
+        "especie": "perro",
+        "edadAños": 2,
+        "mesesAños": "años",
+        "imagen": "./img/lapo.jpg",
+        "peso": 45,
+        "descripcion": "Soy el perro más dulce y compañero que podrás tener."
+    }, 
+    {
+        "id":8,
+        "nombre":"Coral",
+        "especie": "perro",
+        "edadAños": 3,
+        "mesesAños": "años",
+        "imagen": "./img/coral.jpg",
+        "peso": 11,
+        "descripcion": "Soy re tranquila y me encanta dormir."
+    }, 
+    {
+        "id":9,
+        "nombre":"Pola",
+        "especie": "gato",
+        "edadAños": 3,
+        "mesesAños": "años",
+        "imagen": "./img/pola.jpg",
+        "peso": 1,
+        "descripcion": "Soy el gato mas mimoso y dulce de todos."
+    } 
+]
